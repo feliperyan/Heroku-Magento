@@ -1,0 +1,5 @@
+{
+    "name": "TechnoMile",
+    "description": "TechnoMile Ecommerce App",
+    "addons": ["newrelic:stark","sendgrid:starter"]
+}
