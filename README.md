@@ -1,6 +1,6 @@
 # Heroku Buildpack for Magento
 
-[![Magento](http://www.technomile.com/wp-content/uploads/2015/04/heroku_magento1.jpg)](http://www.technomile.com/capabilities/application-development/heroku/magento-2)
+[![Magento](http://www.technomile.com/wp-content/uploads/2015/04/heroku_magento.jpg)](http://www.technomile.com/capabilities/application-development/heroku/magento-2)
 
 [TechnoMile](http://www.technomile.com) created a sample website that demonstrates how to build ecommerce application with [Magento](http://www.magento.com).
 
