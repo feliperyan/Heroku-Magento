@@ -19,6 +19,7 @@
     ],
 	"require": {
         "ext-gd": "*",
-		"ext-mbstring": "*"
+		"ext-mbstring": "*",
+        "ext-soap": "*"
     }
 }
